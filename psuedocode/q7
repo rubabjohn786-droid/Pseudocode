@@ -1,0 +1,5 @@
+start 
+input lenght and width 
+area = lenght*width
+print area 
+exit

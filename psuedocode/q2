@@ -1,0 +1,9 @@
+input a ,b and c 
+if a>b and a>c 
+print a is maximum 
+else if
+b>a and b>c 
+print b is maximum
+else
+print c is maximum
+exit

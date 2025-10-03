@@ -1,0 +1,4 @@
+input a and b
+sum=a+b
+print sum 
+exit
