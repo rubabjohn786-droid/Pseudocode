@@ -1,0 +1,6 @@
+input n 
+i=1 , fact=1
+i<=n
+fact=fact*i
+i=i+1
+exit
